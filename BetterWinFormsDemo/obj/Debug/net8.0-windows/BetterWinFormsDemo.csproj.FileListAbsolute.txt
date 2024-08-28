@@ -1,0 +1,16 @@
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net8.0-windows\BetterWinFormsDemo.exe
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net8.0-windows\BetterWinFormsDemo.deps.json
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net8.0-windows\BetterWinFormsDemo.runtimeconfig.json
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net8.0-windows\BetterWinFormsDemo.dll
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\bin\Debug\net8.0-windows\BetterWinFormsDemo.pdb
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.MainForm.resources
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.csproj.GenerateResource.cache
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.AssemblyInfoInputs.cache
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.AssemblyInfo.cs
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.dll
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\refint\BetterWinFormsDemo.dll
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.pdb
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\BetterWinFormsDemo.genruntimeconfig.cache
+C:\Users\stev2\source\repos\WinFormsDemoApp\BetterWinFormsDemo\obj\Debug\net8.0-windows\ref\BetterWinFormsDemo.dll
